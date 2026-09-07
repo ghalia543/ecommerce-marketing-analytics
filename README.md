@@ -87,7 +87,7 @@ Analyzes product/category/brand revenue and profit, ratings, sales volume and in
 
 Monitors delivery, shipping, returns and fulfillment performance.
 
-![Operations](screenshots/operations.png)
+![Operations](screenshots/operations .png)
 
 ## Main DAX Analytics
 
